@@ -778,7 +778,7 @@ footer div:nth-of-type(2) {
     width: 907px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .widthFlex {
     width: 560px;
   }
